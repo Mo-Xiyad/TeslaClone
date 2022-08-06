@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, StyleSheet, FlatList, Dimensions } from "react-native";
+import { View, StyleSheet, FlatList, Dimensions } from "react-native";
 import CarItem from "../carItems";
 import cars from "./cars.js";
 const CarsList = (props) => {
